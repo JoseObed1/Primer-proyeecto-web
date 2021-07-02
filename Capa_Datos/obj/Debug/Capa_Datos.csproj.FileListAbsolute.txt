@@ -1,0 +1,45 @@
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Entidad.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Entidad.dll.config
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.xml
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\Capa_Entidad.dll.config
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.xml
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Datos\obj\Debug\Capa_Datos.pdb
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\Capa_Datos.dll
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\Capa_Datos.pdb
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\Capa_Entidad.dll
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\EntityFramework.dll
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\Capa_Entidad.pdb
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\Capa_Entidad.dll.config
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\EntityFramework.xml
+D:\Repos\Proyecto Final\Capa_Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\Proyecto Final\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+D:\Repos\Proyecto Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+D:\Repos\Proyecto Final\Capa_Datos\obj\Debug\Capa_Datos.csproj.CopyComplete
+D:\Repos\Proyecto Final\Capa_Datos\obj\Debug\Capa_Datos.dll
+D:\Repos\Proyecto Final\Capa_Datos\obj\Debug\Capa_Datos.pdb

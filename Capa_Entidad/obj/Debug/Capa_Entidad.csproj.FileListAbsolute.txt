@@ -1,0 +1,34 @@
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\bin\Debug\Capa_Entidad.dll.config
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.xml
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CopyComplete
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\johan\source\repos\MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\bin\Debug\Capa_Entidad.dll.config
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.xml
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CopyComplete
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+D:\Repos\PARA DEBUGGEAR MVC+CapasG3\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
+D:\Repos\Proyecto Final\Capa_Entidad\bin\Debug\Capa_Entidad.dll.config
+D:\Repos\Proyecto Final\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+D:\Repos\Proyecto Final\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+D:\Repos\Proyecto Final\Capa_Entidad\bin\Debug\EntityFramework.dll
+D:\Repos\Proyecto Final\Capa_Entidad\bin\Debug\EntityFramework.SqlServer.dll
+D:\Repos\Proyecto Final\Capa_Entidad\bin\Debug\EntityFramework.xml
+D:\Repos\Proyecto Final\Capa_Entidad\bin\Debug\EntityFramework.SqlServer.xml
+D:\Repos\Proyecto Final\Capa_Entidad\obj\Debug\Capa_Entidad.csprojAssemblyReference.cache
+D:\Repos\Proyecto Final\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+D:\Repos\Proyecto Final\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CopyComplete
+D:\Repos\Proyecto Final\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+D:\Repos\Proyecto Final\Capa_Entidad\obj\Debug\Capa_Entidad.pdb

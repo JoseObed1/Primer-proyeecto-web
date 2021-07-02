@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BDPModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="cuentas">
+    <Key>
+      <PropertyRef Name="id_cuenta" />
+    </Key>
+    <Property Name="id_cuenta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="correo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pass" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="departamentos">
+    <Key>
+      <PropertyRef Name="id_dept" />
+    </Key>
+    <Property Name="id_dept" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="sigla" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="documento">
+    <Key>
+      <PropertyRef Name="id_documentos" />
+    </Key>
+    <Property Name="id_documentos" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="codigo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="empleado" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="dept_origen" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="dept_destino" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fecha" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="empleados">
+    <Key>
+      <PropertyRef Name="id_employe" />
+    </Key>
+    <Property Name="id_employe" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="departamento" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cargo" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BDPModelStoreContainer">
+    <EntitySet Name="cuentas" EntityType="Self.cuentas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="departamentos" EntityType="Self.departamentos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="documento" EntityType="Self.documento" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="empleados" EntityType="Self.empleados" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

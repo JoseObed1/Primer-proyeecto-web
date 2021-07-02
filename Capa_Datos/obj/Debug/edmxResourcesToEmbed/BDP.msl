@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BDPModelStoreContainer" CdmEntityContainer="BDPEntities">
+    <EntitySetMapping Name="cuentas">
+      <EntityTypeMapping TypeName="BDPModel.cuentas">
+        <MappingFragment StoreEntitySet="cuentas">
+          <ScalarProperty Name="id_cuenta" ColumnName="id_cuenta" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="correo" ColumnName="correo" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="departamentos">
+      <EntityTypeMapping TypeName="BDPModel.departamentos">
+        <MappingFragment StoreEntitySet="departamentos">
+          <ScalarProperty Name="id_dept" ColumnName="id_dept" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="sigla" ColumnName="sigla" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="documento">
+      <EntityTypeMapping TypeName="BDPModel.documento">
+        <MappingFragment StoreEntitySet="documento">
+          <ScalarProperty Name="id_documentos" ColumnName="id_documentos" />
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="empleado" ColumnName="empleado" />
+          <ScalarProperty Name="dept_origen" ColumnName="dept_origen" />
+          <ScalarProperty Name="dept_destino" ColumnName="dept_destino" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="empleados">
+      <EntityTypeMapping TypeName="BDPModel.empleados">
+        <MappingFragment StoreEntitySet="empleados">
+          <ScalarProperty Name="id_employe" ColumnName="id_employe" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="departamento" ColumnName="departamento" />
+          <ScalarProperty Name="cargo" ColumnName="cargo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

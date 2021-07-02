@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="P2CAPASModelStoreContainer" CdmEntityContainer="P2CAPASEntities">
+    <EntitySetMapping Name="ESTUDIANTES">
+      <EntityTypeMapping TypeName="P2CAPASModel.ESTUDIANTE">
+        <MappingFragment StoreEntitySet="ESTUDIANTES">
+          <ScalarProperty Name="IdEstudiante" ColumnName="IdEstudiante" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Matricula" ColumnName="Matricula" />
+          <ScalarProperty Name="Carrera" ColumnName="Carrera" />
+          <ScalarProperty Name="EDAD" ColumnName="EDAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SECCIONES">
+      <EntityTypeMapping TypeName="P2CAPASModel.SECCIONE">
+        <MappingFragment StoreEntitySet="SECCIONES">
+          <ScalarProperty Name="IdSecciones" ColumnName="IdSecciones" />
+          <ScalarProperty Name="MateriaGrupo" ColumnName="MateriaGrupo" />
+          <ScalarProperty Name="IdEstudiante" ColumnName="IdEstudiante" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="BUSCAESTUDIANTE" FunctionName="P2CAPASModel.Store.BUSCAESTUDIANTE">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="P2CAPASModel.BUSCAESTUDIANTE_Result">
+          <ScalarProperty Name="IdEstudiante" ColumnName="IdEstudiante" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Matricula" ColumnName="Matricula" />
+          <ScalarProperty Name="Carrera" ColumnName="Carrera" />
+          <ScalarProperty Name="EDAD" ColumnName="EDAD" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
